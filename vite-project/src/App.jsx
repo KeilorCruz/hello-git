@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p className="read-the-docs">
-        modificacion 1 v2
+        modificacion 1 v login
       </p>
     </>
   )
